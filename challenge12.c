@@ -5,7 +5,7 @@
 int main()
 {
 
-    char num[3];
+    char num[12];
 
     printf("enter your number:");
     scanf("%s", num);
